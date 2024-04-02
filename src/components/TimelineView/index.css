@@ -1,0 +1,40 @@
+.time-line-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+
+.responsive-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 90%;
+  max-width: 1110px;
+  height: 100vh;
+}
+
+.header-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.heading {
+  font-family: 'Roboto';
+  font-size: 18px;
+  color: #171f46;
+  font-weight: 500;
+  line-height: 2.5;
+  text-align: center;
+  margin: 0;
+  margin-top: 15px;
+}
+
+.ccbp-heading {
+  font-family: 'Roboto';
+  font-size: 24px;
+  color: #2b237c;
+  font-weight: 500;
+}
